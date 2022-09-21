@@ -1,6 +1,7 @@
 # mass_app
 
-A new Flutter project.
+Mass Calculator Flutter project.
+
 
 ## Getting Started
 
